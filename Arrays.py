@@ -1,3 +1,4 @@
+'''Data Structure: Array, maintains a list of homogenous elements'''
 class Array(object):
 
     def __init__(self, capacity, arrayType=int):
